@@ -1,0 +1,62 @@
+.ghbdrn {
+color: blue;
+
+
+}
+#jtrjrj {
+    color: brown;
+    text-align: center;
+}
+
+
+
+
+.margin-left {
+margin-left: 50px;
+}
+
+body {
+    background-color:pink;
+}
+.level1 {
+    color: chartreuse;
+}
+.level2 {
+    color: inherit;
+    border: crimson 3px solid;
+}
+.level3{
+
+}
+
+ul li {
+color: red;
+}
+
+ul > li {
+ color: brown;
+}
+.padding {
+    padding: 20px 25px;
+    padding-left: 63px;
+    padding-right: 62px;
+    padding-top: 37px;
+}
+.margin {
+    margin: 110px 45px 64px 38px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.border {
+    box-sizing: border-box;
+}
+.content {
+    box-sizing: content-box;
+}
+.box{
+    width: 65px;
+    margin: 100px;
+    padding: 100px;
+    border: 2px darkmagenta solid;
+}
